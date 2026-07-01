@@ -15,9 +15,9 @@ Vilanova i la Geltrú, Barcelona, Spain
 
 ## About Me
 
-I'm a **Software & AI Engineer** in training based in Vilanova i la Geltrú, Barcelona. I come from a fullstack background and I'm currently refocusing my career toward **backend, cloud, data, and artificial intelligence**.
+I'm a **Software & AI Engineer** in training based in Vilanova i la Geltrú, Barcelona. I come from a fullstack background and I'm currently refocusing my career toward **backend, cloud, data, and AI**.
 
-My main stack revolves around **Python, Go, TypeScript, AWS, and Linux**, with a special interest in building **terminal tools**: TUIs, CLIs, and scripts that automate and improve the developer day-to-day.
+My main stack revolves around **Python, TypeScript, SQL, Docker, AWS, and Linux**, with a special interest in building **terminal tools**: TUIs, CLIs, and scripts that automate and improve the developer day-to-day.
 
 I'm driven by building things well, with **privacy by default** and **self-hosting** as core values whenever they make sense. I maintain a small homelab where I test infrastructure and services, and my dotfiles are a living project where I document and automate my environment.
 
