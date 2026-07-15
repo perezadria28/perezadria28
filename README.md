@@ -1,12 +1,19 @@
+<div align="center">
+
 # Adrià Pérez Alejandre
 
-### Junior Backend Developer
+**Junior Backend Developer**
 
 Backend developer focused on Python, SQL, REST APIs, and maintainable web applications.
 
 Based in Vilanova i la Geltrú, Barcelona, Spain.
 
-[LinkedIn] · [Email]
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/perezadria00/)
+[![Email](https://img.shields.io/badge/Email-perezadria00%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:perezadria00@gmail.com)
+
+</div>
+
+---
 
 ## About Me
 
@@ -20,26 +27,32 @@ I am currently focusing my professional development on backend engineering with 
 
 ## Current Focus
 
-* Backend development with Python and FastAPI
-* REST API design and implementation
-* SQL and relational databases
-* Testing, debugging, and maintainable code
-* Linux and Git-based development workflows
-* Artificial Intelligence and Big Data fundamentals
+- Backend development with Python and FastAPI
+- REST API design and implementation
+- SQL and relational databases
+- Testing, debugging, and maintainable code
+- Linux and Git-based development workflows
+- Artificial Intelligence and Big Data fundamentals
 
 ## Technologies
 
-**Backend**
+### Backend
 
-`Python` · `FastAPI` · `REST APIs`
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![REST APIs](https://img.shields.io/badge/REST_APIs-005571?style=for-the-badge&logo=openapiinitiative&logoColor=white)
 
-**Databases**
+### Databases
 
-`SQL` · `PostgreSQL` · `SQLite`
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
 
-**Tools and environment**
+### Tools and Environment
 
-`Git` · `GitHub` · `Linux`
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 ## Background
 
@@ -53,12 +66,12 @@ This multidisciplinary background has given me experience approaching problems f
 
 I am currently strengthening my backend foundations through practical projects involving:
 
-* API development
-* Data persistence
-* Authentication and authorization
-* Automated testing
-* Error handling and validation
-* Database design
-* Application structure and maintainability
+- API development
+- Data persistence
+- Authentication and authorization
+- Automated testing
+- Error handling and validation
+- Database design
+- Application structure and maintainability
 
 My next projects will be published here as I develop them.
