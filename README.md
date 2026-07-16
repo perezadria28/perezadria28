@@ -2,9 +2,9 @@
 
 # Adrià Pérez Alejandre
 
-**Junior Backend Developer**
+**Junior Full Stack Developer**
 
-Backend developer focused on Python, SQL, REST APIs, and maintainable web applications.
+Software developer focused on Java, Spring Boot, Angular, and maintainable web applications.
 
 Based in Vilanova i la Geltrú, Barcelona, Spain.
 
@@ -17,36 +17,41 @@ Based in Vilanova i la Geltrú, Barcelona, Spain.
 
 ## About Me
 
-I enjoy understanding why something does not work and finding a clear way to solve it.
+I am a junior software developer with a Higher Vocational Training qualification in Web Application Development and practical experience maintaining and improving web applications.
 
-During my internship, I worked on the maintenance and improvement of an existing web application. My responsibilities included debugging issues, modifying existing functionality, working with SQL databases, and helping optimize processes that handled large amounts of data.
+During my internship at Strategying, I worked on a ticketing application for festivals and events. I investigated a loading and pagination issue that could block the interface for more than ten minutes, then helped improve it with lazy loading, background jobs, more efficient pagination, and database cleanup.
 
-This experience taught me how to navigate an established codebase, analyze a problem before changing the code, and collaborate with other developers using Git, pull requests, code reviews, and two-week sprints.
-
-I am currently focusing my professional development on backend engineering with Python, FastAPI, SQL, and Linux. I am also studying Artificial Intelligence and Big Data, with an interest in automation and the practical application of AI.
+I am currently building my professional profile around Java, Spring Boot, Angular, SQL, and Git. I am also studying Artificial Intelligence and Big Data as a complementary specialization, with an interest in practical and data-oriented software solutions.
 
 ## Current Focus
 
-- Backend development with Python and FastAPI
-- REST API design and implementation
+- Full-stack development with Java, Spring Boot, and Angular
+- REST APIs and web application architecture
 - SQL and relational databases
 - Testing, debugging, and maintainable code
-- Linux and Git-based development workflows
+- Git-based development workflows and Linux fundamentals
 - Artificial Intelligence and Big Data fundamentals
 
 ## Technologies
 
-### Backend
+### Current Stack
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+
+### Web and Databases
+
 ![REST APIs](https://img.shields.io/badge/REST_APIs-005571?style=for-the-badge&logo=openapiinitiative&logoColor=white)
-
-### Databases
-
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+### Previous Experience
+
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
 
 ### Tools and Environment
 
@@ -54,19 +59,28 @@ I am currently focusing my professional development on backend engineering with 
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
-## Background
+## Experience and Education
 
-Before moving into software development, I studied Pharmacy and Parapharmacy, followed by Nutrition and Dietetics.
+### Development Internship · Strategying
 
-I later completed a Higher Vocational Training program in Web Application Development, turning my interest in technology and problem-solving into a new professional direction.
+**October 2024 – May 2025**
 
-This multidisciplinary background has given me experience approaching problems from different perspectives, although my current professional goal is clear: to grow as a backend developer within the Python ecosystem.
+- Maintained and improved a web-based ticketing application for festivals and events.
+- Worked with PHP, Laravel, Blade, SQL, and Git in two-week sprints and code reviews.
+- Helped optimize API loading, pagination, background processing, and database data.
+
+### Education
+
+- **Higher Vocational Training in Web Application Development** — STUCOM Pelai, Barcelona (2023–2025)
+- **Specialization Course in Artificial Intelligence and Big Data** — ILERNA Online (2026–2027, in progress)
+- Previous studies in Pharmacy and Parapharmacy, and Nutrition and Dietetics.
 
 ## What I Am Working On
 
-I am currently strengthening my backend foundations through practical projects involving:
+I am currently strengthening my software development foundations through ongoing study and practical exercises involving:
 
-- API development
+- Java and Spring Boot APIs
+- Angular applications
 - Data persistence
 - Authentication and authorization
 - Automated testing
@@ -75,3 +89,9 @@ I am currently strengthening my backend foundations through practical projects i
 - Application structure and maintainability
 
 My next projects will be published here as I develop them.
+
+## Languages
+
+- Spanish — Native
+- Catalan — Native
+- English — Cambridge B2 First
