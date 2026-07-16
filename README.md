@@ -17,11 +17,20 @@ Based in Vilanova i la Geltrú, Barcelona, Spain.
 
 ## About Me
 
-I am a junior software developer with a Higher Vocational Training qualification in Web Application Development and practical experience maintaining and improving web applications.
+I am interested in technology because of its ability to solve real problems and improve the way digital products work. I enjoy understanding an application as a whole, identifying opportunities for improvement, and looking for clear and sustainable solutions.
 
-During my internship at Strategying, I worked on a ticketing application for festivals and events. I investigated a loading and pagination issue that could block the interface for more than ten minutes, then helped improve it with lazy loading, background jobs, more efficient pagination, and database cleanup.
+During my practical experience, I contributed to the maintenance and evolution of web applications, working both on development tasks and data management. I learned to work within a team through two-week sprints and code reviews, while incorporating feedback continuously.
 
-I am currently building my professional profile around Java, Spring Boot, Angular, SQL, and Git. I am also studying Artificial Intelligence and Big Data as a complementary specialization, with an interest in practical and data-oriented software solutions.
+Some of my main contributions included:
+
+- Improving loading and pagination processes that affected application performance and usability.
+- Implementing lazy loading and background processing.
+- Optimizing and cleaning data to make it easier to manage.
+- Collaborating on product maintenance and continuous improvement.
+
+I am currently studying a specialization in Artificial Intelligence and Big Data to expand my knowledge of data processing, AI models, and their application in digital products. I also explore generative AI as a support tool for development: researching, understanding concepts, comparing alternatives, and speeding up tasks while maintaining a critical view of its results.
+
+Alongside my studies, I continue reinforcing what I learn through personal projects that I document and share on GitHub. I am looking to grow within a team where I can progressively take on new challenges, learn from experienced professionals, and contribute from day one.
 
 ## Current Focus
 
