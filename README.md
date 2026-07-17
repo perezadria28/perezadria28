@@ -2,7 +2,7 @@
 
 # Adrià Pérez Alejandre
 
-**Junior Full Stack Developer**
+**Full Stack Developer**
 
 Software developer focused on Java, Spring Boot, Angular, and maintainable web applications.
 
