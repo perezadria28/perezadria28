@@ -4,7 +4,7 @@
 
 **Full Stack Developer**
 
-Software developer focused on Java, Spring Boot, Angular, and maintainable web applications.
+Full Stack developer focused on learning Python and React, maintainable web applications, and practical use of generative AI.
 
 Based in Vilanova i la Geltrú, Barcelona, Spain.
 
@@ -34,21 +34,20 @@ Alongside my studies, I continue reinforcing what I learn through personal proje
 
 ## Current Focus
 
-- Full-stack development with Java, Spring Boot, and Angular
+- Full-stack development with Python and React as a current learning and project focus
 - REST APIs and web application architecture
 - SQL and relational databases
 - Testing, debugging, and maintainable code
 - Git-based development workflows and Linux fundamentals
+- Generative AI as a productivity and learning multiplier, with critical review of its output
 - Artificial Intelligence and Big Data fundamentals
 
 ## Technologies
 
-### Current Stack
+### Learning and Project Focus
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
 ### Web and Databases
 
@@ -57,7 +56,7 @@ Alongside my studies, I continue reinforcing what I learn through personal proje
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-### Previous Experience
+### Previous Professional Experience
 
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
@@ -88,8 +87,7 @@ Alongside my studies, I continue reinforcing what I learn through personal proje
 
 I am currently strengthening my software development foundations through ongoing study and practical exercises involving:
 
-- Java and Spring Boot APIs
-- Angular applications
+- Python APIs and React applications
 - Data persistence
 - Authentication and authorization
 - Automated testing
